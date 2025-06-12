@@ -23,3 +23,7 @@ Human carotid atherosclerotic plaques were taken during endarterectomy surgery a
 
 **Conclusion:**  
 Using FACS prior to scRNAseq causes bias in cellular composition and alters the transcriptome of human atherosclerotic plaques.
+
+## Contents:
+
+```Analysis\``` contains notebooks used to perform the analysis outlined in this publication 
